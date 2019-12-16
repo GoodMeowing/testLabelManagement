@@ -77,7 +77,7 @@
         "name": "anyone",
         "description": "Anyone",
         "users": [],
-        "commands": [ "/self-assign" ]
+        "commands": [ "/self-assign", "/approve" ]
       }
     ]
   },
