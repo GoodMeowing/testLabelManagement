@@ -71,7 +71,7 @@
         "name": "notauthor",
         "description": "Not author of the issue or pull",
         "users": [],
-        "commands": [ "/approve" ]
+        "commands": []
       },
       {
         "name": "anyone",
