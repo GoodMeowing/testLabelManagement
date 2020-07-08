@@ -47,19 +47,19 @@
       {
         "name": "committer",
         "description": "Committer of the project",
-        "users": [ "frank-zsy", "WuShaoling", "GoodMeowing", "heming6666", "liwen-tj" ],
+        "users": [ "GoodMeowing" ],
         "commands": [ "/difficulty", "/rerun" ]
       },
       {
         "name": "replier",
         "description": "Replier is responsible for reply issues in time",
-        "users": [ "frank-zsy", "WuShaoling", "GoodMeowing" ],
+        "users": [ "GoodMeowing" ],
         "commands": []
       },
       {
         "name": "approver",
         "description": "After approvers' approve, pulls should be merged automatically",
-        "users": [ "frank-zsy", "WuShaoling", "GoodMeowing", "heming6666", "liwen-tj" ],
+        "users": [ "GoodMeowing" ],
         "commands": [ "/approve" ]
       },
       {
